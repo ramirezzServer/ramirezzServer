@@ -14,7 +14,7 @@
 
 ### 🎨 About Me  
 
-Hey there! I’m **Faris Yahya Ayyash Alfatih**, a passionate **Front-End Developer** with a creative eye and a strong grasp of the full web ecosystem.  
+Hey there! I’m **Faris Yahya Ayyash Alfatih**, a passionate **Front-End Developer** with a deep understanding of the full web ecosystem.  
 I specialize in building **aesthetic, responsive, and performant user interfaces**, and I love bridging **UI design** and **technical implementation**.  
 
 - 💻 Specialized in **Next.js**, **TypeScript**, and **Tailwind CSS**  
