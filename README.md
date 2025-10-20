@@ -95,6 +95,3 @@ I specialize in building **aesthetic, responsive, and performant user interfaces
   — Faris Yahya Ayyash Alfatih
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=120&section=footer"/>
-</p>
