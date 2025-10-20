@@ -1,3 +1,5 @@
+<!-- GitHub Profile README | Faris Yahya Ayyash Alfatih -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Faris+👋;Front-End+Developer+%26+UI%2FUX+Designer;Full-Stack+Capable+with+Creative+Vision;Welcome+to+my+GitHub!">
 </h1>
