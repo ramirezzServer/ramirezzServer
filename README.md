@@ -40,6 +40,7 @@ I specialize in building **aesthetic, responsive, and performant user interfaces
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -49,6 +50,7 @@ I specialize in building **aesthetic, responsive, and performant user interfaces
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000?style=for-the-badge&logo=coreldraw&logoColor=white)
 
 ---
 
@@ -93,4 +95,3 @@ I specialize in building **aesthetic, responsive, and performant user interfaces
   <i>“Life is the art of drawing without an eraser.”</i><br/>
   — Faris Yahya Ayyash Alfatih
 </p>
-
