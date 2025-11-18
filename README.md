@@ -14,13 +14,14 @@
 
 ### 🎨 About Me  
 
-Hey there! I’m **Faris Yahya Ayyash Alfatih**, a passionate **Front-End Developer** with a deep understanding of the full web ecosystem.  
-I specialize in building **aesthetic, responsive, and performant user interfaces**, and I love bridging **UI design** and **technical implementation**.  
+Hey there! I’m **Faris Yahya Ayyash Alfatih**, a **Front-End Developer & UI/UX Enthusiast** who enjoys turning ideas, wireframes, and design systems into real products.  
+I love working at the intersection of **design, code, and user experience**.
 
-- 💻 Specialized in **Next.js**, **TypeScript**, and **Tailwind CSS**  
-- ⚙️ Experienced with **Node.js**, **MySQL**, and **PHP** for backend integration  
-- 🎨 Design prototypes and systems in **Figma** before coding  
-- 🌈 Enthusiastic about **clean code**, **micro-interactions**, and **scalable front-end architecture**
+- 💻 Focused on building modern web apps with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**  
+- ⚙️ Comfortable going full-stack using **Node.js**, **Laravel/PHP**, and **MySQL** when the project needs it  
+- 🎨 Often start from **Figma**: user flows, wireframes, and design systems, then translate them into pixel-perfect interfaces  
+- 📊 Interested in **dashboards, internal tools, and real-world problem solving** (admin systems, data-driven apps, etc.)  
+- 🚀 Continuously learning about **performance**, **accessibility**, and **better developer experience**
 
 ---
 
@@ -58,10 +59,10 @@ I specialize in building **aesthetic, responsive, and performant user interfaces
 
 | Project | Description | Stack |
 |----------|--------------|--------|
-| 🎨 **Creative Portfolio Website** | Fully responsive portfolio designed on Figma and coded with smooth animations | Next.js, Tailwind, Framer Motion |
-| 🧱 **UI Component Library** | Reusable, customizable React components for rapid prototyping | React, TypeScript, Storybook |
-| 🛒 **E-Commerce Platform** | Fullstack app with cart logic, user authentication, and dashboard UI | Next.js, Node.js, MySQL |
-| 📊 **Dashboard UI System** | Interactive dashboard built with modular UI components | React, TailwindCSS, Chart.js |
+| 🎨 **Personal Portfolio v2** | Developer-focused portfolio with smooth page transitions, section-based layout, and responsive design, built from Figma concept | Next.js, TypeScript, Tailwind, Framer Motion |
+| 🧱 **Design System & UI Kit** | Reusable UI component set mapped from Figma tokens to React components for faster prototyping and consistent UI | React, TypeScript, Storybook, TailwindCSS |
+| 🛒 **E-Commerce Lite** | Fullstack e-commerce prototype with product management, authentication, and basic checkout flow | Next.js, Laravel API, MySQL |
+| 📊 **Admin Dashboard Template** | Modular dashboard for analytics and management views with responsive tables, filters, and charts | React, TailwindCSS, Chart.js |
 
 ---
 
