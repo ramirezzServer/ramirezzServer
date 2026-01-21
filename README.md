@@ -14,7 +14,7 @@
 
 ### 🎨 About Me  
 
-Hey there! I’m **Faris Yahya Ayyash Alfatih**, a **Full-Stack Developer & UI/UX Designer** who enjoys building complete web solutions — from **user-centered interfaces** to **robust backend systems**.  
+Hey there! I’m **Faris Yahya Ayyash Alfatih**, a **Full-Stack Developer & UI/UX Designer** who enjoys building complete web solutions from **user-centered interfaces** to **robust backend systems**.  
 I work comfortably across **frontend, backend, database, and basic infrastructure**, with an added interest in **data & analytical thinking**.
 
 - 🧠 Strong foundation in **JavaScript & TypeScript**
