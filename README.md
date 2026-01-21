@@ -15,16 +15,16 @@
 ### 🎨 About Me  
 
 Hey there! I’m **Faris Yahya Ayyash Alfatih**, a **Full-Stack Developer & UI/UX Designer** who enjoys building complete web solutions — from **user-centered interfaces** to **robust backend systems**.  
-I thrive at the intersection of **design, frontend engineering, backend logic, and infrastructure**.
+I work comfortably across **frontend, backend, database, and basic infrastructure**, with an added interest in **data & analytical thinking**.
 
-- 🧠 Strong foundation in **JavaScript & TypeScript**, with a deep understanding of how the web works  
-- 💻 Build scalable frontends using **Next.js**, **React**, **Tailwind CSS**, and modern UI patterns  
-- ⚙️ Develop backend systems with **Node.js**, **Laravel/PHP**, RESTful APIs, and authentication flows  
-- 🗄️ Work comfortably with **MySQL** and **SQLite**, including schema design and query optimization  
-- 🌐 Deploy and serve apps using **Nginx**, handling routing and basic server configuration  
-- 🎨 Design-first mindset: start from **Figma**, then translate designs into clean, maintainable code  
-- 📊 Interested in **dashboards, admin systems, internal tools, and data-driven applications**  
-- 🚀 Continuously improving **performance, security, accessibility, and developer experience**
+- 🧠 Strong foundation in **JavaScript & TypeScript**
+- 💻 Build scalable frontends using **Next.js**, **React**, **Tailwind CSS**
+- ⚙️ Develop backend systems with **Node.js**, **Laravel/PHP**, REST APIs
+- 🗄️ Work with **MySQL** and **SQLite**
+- 🌐 Serve and deploy apps using **Nginx**
+- 📊 Experience with **basic statistical analysis & data processing**
+- 🎨 Design-first workflow using **Figma**
+- 🚀 Continuously improving performance, structure, and developer experience
 
 ---
 
@@ -34,6 +34,7 @@ I thrive at the intersection of **design, frontend engineering, backend logic, a
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,9 +48,7 @@ I thrive at the intersection of **design, frontend engineering, backend logic, a
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FBBD23?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -61,45 +60,16 @@ I thrive at the intersection of **design, frontend engineering, backend logic, a
 
 ---
 
-### 🧩 Skill Level Overview
-
-#### 🟢 Advanced
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-22C55E?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-22C55E?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-22C55E?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-Advanced-22C55E?style=for-the-badge)
-
-#### 🔵 Intermediate
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3B82F6?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Intermediate-3B82F6?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-Intermediate-3B82F6?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Intermediate-3B82F6?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-Intermediate-3B82F6?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-3B82F6?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-Intermediate-3B82F6?style=for-the-badge)
-
-#### 🟡 Familiar / Learning
-![Node.js](https://img.shields.io/badge/Node.js-Learning-FACC15?style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express-Learning-FACC15?style=for-the-badge)
-![Nginx](https://img.shields.io/badge/Nginx-Familiar-FACC15?style=for-the-badge)
-![C%23](https://img.shields.io/badge/C%23-Familiar-FACC15?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-Familiar-FACC15?style=for-the-badge)
-
----
-
 ### 🌟 Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **JS-Kitchen-Sink** | Deep JavaScript demo (Promise, VDOM, mini DB, algorithms) | JavaScript | 
-| **ourtuctuc-mobility-system** | Blade + Laravel system prototype | Laravel, Blade |
-| **WebKost** | Kost management app with classic PHP | PHP, MySQL |
-| **basicts** | TS fundamentals & utilities | TypeScript |
-| **Personal Portfolio v2** | Portfolio with responsive UI & animations | Next.js, TS, Tailwind |
-| **Admin Dashboard Template** | Dashboard with tables, charts, filters | React, Tailwind, Chart.js |
-| **E-Commerce Lite** | Fullstack e-commerce prototype | Next.js & Laravel API |
-
-*(Project list di atas sudah disesuaikan dari repos kamu yang terlihat di profil.)* :contentReference[oaicite:1]{index=1}
+| **JS-Kitchen-Sink** | Deep JavaScript playground (Promise, VDOM, algorithms) | JavaScript |
+| **ourtuctuc-mobility-system** | Web system using Laravel & Blade | Laravel |
+| **WebKost** | Kost management application | PHP, MySQL |
+| **basicts** | TypeScript fundamentals & utilities | TypeScript |
+| **Admin Dashboard Template** | Dashboard UI with charts & tables | React, Tailwind |
+| **statistical-analysis-project** | Statistical analysis & data processing project | Python, Statistics |
 
 ---
 
@@ -112,19 +82,6 @@ I thrive at the intersection of **design, frontend engineering, backend logic, a
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ramirezzServer&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/faris-yahya-ayyash-alfatih-0a502a215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/rissziee/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
