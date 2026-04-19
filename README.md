@@ -98,7 +98,7 @@ const faris = {
 
 ---
 
-## 📈 Contribution Activity — Last 12 Months
+## 📈 Contribution Activity
 
 <div align="center">
 
