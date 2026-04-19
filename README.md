@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Profile Views + Followers -->
 <a href="https://github.com/ramirezzServer">
   <img src="https://komarev.com/ghpvc/?username=ramirezzServer&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
 </a>
@@ -17,7 +16,6 @@
 
 <br/><br/>
 
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+apps+from+UI+to+server+%F0%9F%9A%80;TypeScript+%7C+Laravel+%7C+Next.js+enthusiast+%F0%9F%92%BB;Data+analyst+at+heart%2C+engineer+by+practice+%F0%9F%93%8A;Telkom+University%2C+Bandung+%F0%9F%8E%93" />
 
 </div>
@@ -100,7 +98,7 @@ const faris = {
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity — Last 12 Months
 
 <div align="center">
 
