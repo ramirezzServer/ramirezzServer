@@ -31,7 +31,7 @@ const faris = {
   name     : "Faris Yahya Ayyash Alfatih",
   alias    : "ramirezzServer",
   location : "Bandung, Indonesia 🇮🇩",
-  education: "Informatics · Telkom University",
+  education: "Information System · Telkom University",
   roles    : ["Full-Stack Developer", "UI/UX Designer"],
   stack    : {
     frontend : ["Next.js", "React", "Tailwind CSS", "TypeScript"],
