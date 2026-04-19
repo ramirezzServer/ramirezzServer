@@ -1,34 +1,35 @@
-<!-- GitHub Profile README | Faris Yahya Ayyash Alfatih -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Faris+👋;Full-Stack+Developer+%26+UI%2FUX+Designer;Building+Scalable+Apps+from+UI+to+Server;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Faris+👋;Full-Stack+Developer+%26+UI%2FUX+Designer;From+UI+to+Server+to+Mobile;Building+Real+Products%2C+End+to+End;Welcome+to+my+GitHub!">
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-Web%20Applications-00BFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile%20Apps-00BFFF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Design-Figma-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/University-Telkom%20University-red?style=flat-square"/>
 </p>
 
 ---
 
-### 🎨 About Me  
+### 🎨 About Me
 
-Hey there! I’m **Faris Yahya Ayyash Alfatih**, a **Full-Stack Developer & UI/UX Designer** who enjoys building complete web solutions from **user-centered interfaces** to **robust backend systems**.  
-I work comfortably across **frontend, backend, database, and basic infrastructure**, with an added interest in **data & analytical thinking**.
+Hey there! I'm **Faris Yahya Ayyash Alfatih**, a **Full-Stack Developer & UI/UX Designer** from Bandung who enjoys building complete digital solutions — from **user-centered interfaces** to **robust backend systems**, and even reaching into **mobile development**.
+
+I work comfortably across **frontend, backend, database, and basic infrastructure**, with a growing interest in **data analytics** and **system design**.
 
 - 🧠 Strong foundation in **JavaScript & TypeScript**
-- 💻 Build scalable frontends using **Next.js**, **React**, **Tailwind CSS**
-- ⚙️ Develop backend systems with **Node.js**, **Laravel/PHP**, REST APIs
+- 💻 Build scalable frontends with **Next.js**, **React**, **Tailwind CSS**
+- ⚙️ Develop backend systems using **Node.js**, **Laravel/PHP**, REST APIs
+- 📱 Exploring **mobile development** (cross-platform)
 - 🗄️ Work with **MySQL** and **SQLite**
 - 🌐 Serve and deploy apps using **Nginx**
-- 📊 Experience with **basic statistical analysis & data processing**
+- 📊 Experience with **statistical analysis & data processing** (Python/Jupyter)
 - 🎨 Design-first workflow using **Figma**
 - 🚀 Continuously improving performance, structure, and developer experience
 
 ---
 
-### 🧠 Tech Arsenal  
+### 🧠 Tech Arsenal
 
 #### 💻 Languages & Databases
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -63,17 +64,18 @@ I work comfortably across **frontend, backend, database, and basic infrastructur
 ### 🌟 Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| **JS-Kitchen-Sink** | Deep JavaScript playground (Promise, VDOM, algorithms) | JavaScript |
-| **ourtuctuc-mobility-system** | Web system using Laravel & Blade | Laravel |
-| **WebKost** | Kost management application | PHP, MySQL |
-| **basicts** | TypeScript fundamentals & utilities | TypeScript |
-| **Admin Dashboard Template** | Dashboard UI with charts & tables | React, Tailwind |
-| **statistical-analysis-project** | Statistical analysis & data processing project | Python, Statistics |
+|---------|-------------|-------|
+| **[tradeview-dashboard](https://github.com/ramirezzServer/tradeview-dashboard)** | Full-stack trading analytics dashboard with frontend, backend & mobile layers | TypeScript, PHP, Laravel |
+| **[ourtuctuc-mobility-system](https://github.com/ramirezzServer/ourtuctuc-mobility-system)** | Web-based mobility management system with Blade templating | Laravel, Blade |
+| **[Project-PKM](https://github.com/ramirezzServer/Project-PKM)** | Full-stack web project built for Program Kreativitas Mahasiswa | Laravel, Blade, PHP |
+| **[WebKost](https://github.com/ramirezzServer/WebKost)** | Kost (boarding house) management application | PHP, MySQL |
+| **[JS-Kitchen-Sink](https://github.com/ramirezzServer/JS-Kitchen-Sink)** | Deep JS playground — custom Promise, VDOM, mini-DB, graph algorithms & more | JavaScript |
+| **[statistical-analysis-project](https://github.com/ramirezzServer/statistical-analysis-project)** | Statistical analysis & data processing explorations | Python, Jupyter Notebook |
+| **[basicts](https://github.com/ramirezzServer/basicts)** | TypeScript fundamentals & utility patterns | TypeScript |
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 GitHub Analytics
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ramirezzServer&show_icons=true&theme=tokyonight&count_private=true" />
@@ -87,6 +89,5 @@ I work comfortably across **frontend, backend, database, and basic infrastructur
 ---
 
 <p align="center">
-  <i>“Life is the art of drawing without an eraser.”</i><br/>
-  — Faris Yahya Ayyash Alfatih
+  <i>"You can make the same mistake twice, because the second time is not a mistake, it's a choice."</i>
 </p>
