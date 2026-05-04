@@ -139,7 +139,7 @@ const faris = {
   <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ramirezzServer&repo=ourtuctuc-mobility-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
 </a>
 
-<a href="https://github.com/ramirezzServer/statistical-analysis-project">
+<a href="https://github.com/ramirezzServer/WebKost">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ramirezzServer&repo=statistical-analysis-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
 </a>
 <a href="https://github.com/ramirezzServer/JS-Kitchen-Sink">
