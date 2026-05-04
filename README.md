@@ -81,8 +81,8 @@ const faris = {
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=ramirezzServer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezzServer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&title_color=a78bfa&text_color=c9d1d9" />
+<img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ramirezzServer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+<img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ramirezzServer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
@@ -133,17 +133,17 @@ const faris = {
 <div align="center">
 
 <a href="https://github.com/ramirezzServer/tradeview-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramirezzServer&repo=tradeview-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ramirezzServer&repo=tradeview-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
 </a>
 <a href="https://github.com/ramirezzServer/ourtuctuc-mobility-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramirezzServer&repo=ourtuctuc-mobility-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ramirezzServer&repo=ourtuctuc-mobility-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
 </a>
 
 <a href="https://github.com/ramirezzServer/statistical-analysis-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramirezzServer&repo=statistical-analysis-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ramirezzServer&repo=statistical-analysis-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
 </a>
 <a href="https://github.com/ramirezzServer/JS-Kitchen-Sink">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramirezzServer&repo=JS-Kitchen-Sink&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ramirezzServer&repo=JS-Kitchen-Sink&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" />
 </a>
 
 </div>
