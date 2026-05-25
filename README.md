@@ -154,9 +154,9 @@ const faris = {
 
 | Project | Stack | Progress |
 |---|---|---|
-| **TradeView Dashboard** — web trading platform | TypeScript · React · Laravel | `████████░░` 80% |
-| **TradeView Mobile** — React Native app | Expo · React Native | `█████░░░░░` 50% |
-| **TradeView API** — REST backend & market data | Laravel 12 · Sanctum · Finnhub | `████████░░` 80% |
+| **TradeView Dashboard** — web trading platform | TypeScript · React · Laravel | `████████░░` 95% |
+| **TradeView Mobile** — React Native app | Expo · React Native | `█████░░░░░` 80% |
+| **TradeView API** — REST backend & market data | Laravel 12 · Sanctum · Finnhub | `████████░░` 95% |
 
 ---
 
