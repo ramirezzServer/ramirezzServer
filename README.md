@@ -12,6 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ramirezzServer&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
 <img src="https://img.shields.io/github/followers/ramirezzServer?style=for-the-badge&color=7c3aed&labelColor=1c1917&label=FOLLOWERS" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/ramirezzServer?style=for-the-badge&color=f97316&labelColor=1c1917&label=TOTAL+STARS" alt="GitHub Stars" />
 <a href="https://linkedin.com/in/faris-yahya-ayyash-alfatih-0a502a215">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -24,7 +25,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Building+Spektra+%E2%80%94+media+tracking+platform;Building+TradeView+%E2%80%94+trading+dashboard+%26+portfolio+platform;React+%7C+TypeScript+%7C+Laravel+%7C+PostgreSQL;REST+API+design+%26+monorepo+architecture;UI%2FUX+from+Figma+to+production;Information+Systems+%40+Telkom+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=860&lines=Building+TradeView+%E2%80%94+real-time+trading+dashboard;Building+Spektra+%E2%80%94+polyglot+media+tracking+platform;Leading+UMKM-Sense+%E2%80%94+PKM-KC+intelligence+system;React+%7C+TypeScript+%7C+Laravel+%7C+FastAPI+%7C+PostgreSQL;Monorepo+architecture+%26+microservices;UI%2FUX+from+Figma+to+production;Information+Systems+%40+Telkom+University" alt="Typing SVG" />
 
 </div>
 
@@ -43,32 +44,33 @@ const faris = {
     "Full-Stack Developer",
     "Frontend Developer",
     "UI/UX Designer",
+    "Project Lead",
   ],
 
   focus: [
     "Web application development",
-    "REST API design",
+    "Monorepo & microservices architecture",
+    "REST & GraphQL API design",
     "Dashboard & data visualization",
-    "Clean UI implementation",
-    "Monorepo project architecture",
+    "Clean, implementable UI/UX",
   ],
 
-  currentProjects: {
-    spektra:
-      "Full-stack tracker for films, series, games, books, ratings, reviews, lists, and social activity.",
+  flagshipProjects: {
     tradeView:
-      "Trading dashboard for portfolio, watchlist, market data, technical analysis, news, and mobile access.",
+      "Real-time trading dashboard — portfolio, watchlist, market data, OHLCV charts, news, web push, and mobile access.",
+    spektra:
+      "Polyglot media tracker for films, series, games, and books with reviews, lists, and social activity feeds.",
+    umkmSense:
+      "PKM-KC smart market & cultural intelligence system for Indonesian SMEs (team lead).",
     ourTucTuc:
-      "Mobility system project focused on transportation service flow and digital experience.",
-    webKost:
-      "Kost management web app for room, tenant, and rental data handling.",
+      "Mobility service system focused on transportation flow and digital experience.",
   },
 
   techStack: {
     frontend: ["React", "TypeScript", "Vite", "Tailwind CSS", "React Router"],
-    backend: ["Laravel", "PHP", "Node.js", "Express"],
+    backend: ["Laravel", "PHP", "Node.js", "Express", "FastAPI"],
     mobile: ["React Native", "Expo"],
-    database: ["PostgreSQL", "MySQL", "SQLite"],
+    database: ["PostgreSQL", "MySQL", "SQLite", "Redis"],
     tools: ["Docker", "Git", "GitHub", "Postman", "Nginx"],
     data: ["Python", "Jupyter Notebook", "Pandas"],
     design: ["Figma", "Illustrator", "Photoshop", "Canva", "CorelDRAW"],
@@ -99,7 +101,14 @@ const faris = {
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,postgres,sqlite&theme=dark" alt="Backend and Database" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi,mysql,postgres,sqlite,redis&theme=dark" alt="Backend and Database" />
+
+<br/><br/>
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Mobile" />
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 
 <br/><br/>
 
@@ -173,53 +182,61 @@ const faris = {
 
 ---
 
-## Featured Projects
+## Flagship Projects
+
+> Four projects that define my engineering range — from real-time financial data and polyglot microservices to research-grade product systems.
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Spektra</h3>
-      <p>Media tracker for films, series, games, books, ratings, reviews, lists, profiles, follows, and activity feeds.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6" />
-        <img src="https://img.shields.io/badge/Laravel-20232A?style=flat-square&logo=laravel&logoColor=FF2D20" />
-        <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" />
-      </p>
-      <a href="https://github.com/ramirezzServer/Spektra">View Repository</a>
-    </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>TradeView Dashboard</h3>
-      <p>Trading dashboard for market overview, watchlist, portfolio, OHLCV chart, market news, financials, crypto, and mobile access.</p>
+      <p>Real-time trading dashboard with market overview, watchlist, portfolio, OHLCV candlestick charts, financials, crypto, market news, web push notifications, and a companion mobile app. Built as a full monorepo with shared types and a typed exception hierarchy.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF" />
         <img src="https://img.shields.io/badge/Laravel-20232A?style=flat-square&logo=laravel&logoColor=FF2D20" />
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Expo-20232A?style=flat-square&logo=expo&logoColor=white" />
       </p>
-      <a href="https://github.com/ramirezzServer/tradeview-dashboard">View Repository</a>
+      <a href="https://github.com/ramirezzServer/tradeview-dashboard">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Spektra</h3>
+      <p>Polyglot media tracker for films, series, games, and books with ratings, reviews, lists, profiles, follows, and activity feeds. Integrates TMDB, RAWG, OpenLibrary, and YouTube APIs across a React + Laravel + FastAPI worker stack.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/Laravel-20232A?style=flat-square&logo=laravel&logoColor=FF2D20" />
+        <img src="https://img.shields.io/badge/FastAPI-20232A?style=flat-square&logo=fastapi&logoColor=009688" />
+        <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/Redis-20232A?style=flat-square&logo=redis&logoColor=DC382D" />
+      </p>
+      <a href="https://github.com/ramirezzServer/Spektra">View Repository →</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>OurTucTuc Mobility System</h3>
-      <p>Mobility service system focused on transportation flow, digital experience, and practical system design.</p>
+    <td width="50%" valign="top">
+      <h3>UMKM-Sense <sub>(PKM-KC)</sub></h3>
+      <p>Smart Market & Cultural Intelligence System for Indonesian SMEs. A PKM-KC research project where I serve as <strong>team lead</strong>, shipped with a full technical & business documentation suite (BRD, PRD, SDD, SRS, Lean Canvas) on a React + Laravel + FastAPI microservice stack.</p>
       <p>
-        <img src="https://img.shields.io/badge/Web_App-20232A?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Laravel-20232A?style=flat-square&logo=laravel&logoColor=FF2D20" />
+        <img src="https://img.shields.io/badge/FastAPI-20232A?style=flat-square&logo=fastapi&logoColor=009688" />
+        <img src="https://img.shields.io/badge/Team_Lead-20232A?style=flat-square&logo=trello&logoColor=white" />
+      </p>
+      <a href="https://github.com/ramirezzServer/Project-PKM">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>OurTucTuc Mobility System</h3>
+      <p>Mobility service system focused on transportation flow, digital experience, and practical end-to-end system design — built on Laravel with a Blade-driven interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-20232A?style=flat-square&logo=laravel&logoColor=FF2D20" />
+        <img src="https://img.shields.io/badge/PHP-20232A?style=flat-square&logo=php&logoColor=777BB4" />
         <img src="https://img.shields.io/badge/UI%2FUX-20232A?style=flat-square&logo=figma&logoColor=F24E1E" />
         <img src="https://img.shields.io/badge/System_Design-20232A?style=flat-square" />
       </p>
-      <a href="https://github.com/ramirezzServer/ourtuctuc-mobility-system">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>WebKost</h3>
-      <p>Kost management web app for handling room, tenant, rental, and database-driven management flow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Web_App-20232A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Database-20232A?style=flat-square" />
-        <img src="https://img.shields.io/badge/CRUD-20232A?style=flat-square" />
-      </p>
-      <a href="https://github.com/ramirezzServer/WebKost">View Repository</a>
+      <a href="https://github.com/ramirezzServer/ourtuctuc-mobility-system">View Repository →</a>
     </td>
   </tr>
 </table>
@@ -230,20 +247,21 @@ const faris = {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **Spektra** | Media tracker for films, series, games, books, ratings, reviews, lists, profiles, follows, and activity feeds | React · TypeScript · Laravel · PostgreSQL · Redis · FastAPI | Active Development |
-| **TradeView Dashboard** | Trading dashboard for market overview, watchlist, portfolio, OHLCV chart, market news, financials, crypto, and mobile access | React · TypeScript · Laravel · PostgreSQL · React Native | Testing & Stabilization |
-| **OurTucTuc Mobility System** | Mobility service system focused on digital transportation flow | Web App · UI/UX · System Design | Maintained |
-| **WebKost** | Kost management web app for handling rental and room-related data | Web App · Database · CRUD | Maintained |
+| **TradeView Dashboard** | Real-time trading dashboard with portfolio, watchlist, OHLCV charts, news, web push & mobile app | React · TypeScript · Vite · Laravel · React Native · Expo | 🟢 Active Development |
+| **Spektra** | Polyglot media tracker for films, series, games & books with social features | React · TypeScript · Laravel · FastAPI · PostgreSQL · Redis | 🟢 Active Development |
+| **UMKM-Sense (PKM-KC)** | Smart market & cultural intelligence system for Indonesian SMEs — team lead | React · Laravel · FastAPI | 🔵 In Progress |
+| **OurTucTuc Mobility System** | Mobility service system focused on digital transportation flow | Laravel · Blade · UI/UX | 🟣 Maintained |
 
 ---
 
 ## What I Like Building
 
-- Clean and responsive web dashboards
-- REST APIs with clear structure
-- UI/UX designs that can actually be implemented
+- Clean and responsive web dashboards backed by real, live data
+- Monorepo and microservice architectures that scale
+- REST and GraphQL APIs with clear, typed structure
+- UI/UX designs that can actually be implemented, not just admired
 - Full-stack apps with auth, database, and real user flows
-- Portfolio-worthy projects that are not just “hello world but with trauma”
+- Portfolio-worthy projects that are not just "hello world but with trauma"
 
 ---
 
