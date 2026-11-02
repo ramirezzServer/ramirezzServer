@@ -1,0 +1,35 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 17 * * *" # tiap hari jam 00:00 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Jakarta
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Jakarta
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
