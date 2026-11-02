@@ -22,12 +22,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: Achievements
+      - name: Overview
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/achievements.svg
+          filename: metrics/overview.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, activity, community, repositories
           config_timezone: Asia/Jakarta
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          config_display: large
