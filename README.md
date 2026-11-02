@@ -402,24 +402,7 @@ flowchart LR
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ramirezzServer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub stats" />
-<img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ramirezzServer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&title_color=a78bfa&text_color=c9d1d9&hide=jupyter%20notebook" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=ramirezzServer&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=F97316&currStreakLabel=a78bfa&sideLabels=a78bfa" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramirezzServer&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true" alt="Contribution activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ramirezzServer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramirezzServer/ramirezzServer/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramirezzServer/ramirezzServer/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ramirezzServer/ramirezzServer/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
+<div align="center"> <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ramirezzServer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub stats" /> <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ramirezzServer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&title_color=a78bfa&text_color=c9d1d9&hide=jupyter%20notebook" alt="Top languages" /> <img src="https://streak-stats.demolab.com?user=ramirezzServer&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=F97316&currStreakLabel=a78bfa&sideLabels=a78bfa" alt="GitHub streak" /> <img src="./metrics/isocalendar.svg" alt="Isometric contribution calendar" /> <img src="./metrics/achievements.svg" alt="GitHub achievements" /> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramirezzServer/ramirezzServer/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramirezzServer/ramirezzServer/output/github-contribution-grid-snake.svg" /> <img alt="Contribution snake" src="https://raw.githubusercontent.com/ramirezzServer/ramirezzServer/output/github-contribution-grid-snake-dark.svg" /> </picture> </div>
 
 ---
 
